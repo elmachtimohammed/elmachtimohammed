@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud, Networking, Security
 - 🌱 I’m currently learning AWS, Docker, K8s, Jenkins, Terraform
 - 💞️ I’m looking to collaborate on AWS
-- 📫 How to reach me : https://www.linkedin.com/in/melmachti/
+- 📫 How to reach me : https://www.linkedin.com/in/elmachti/
 
 <!---
 elmachtimohammed/elmachtimohammed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
